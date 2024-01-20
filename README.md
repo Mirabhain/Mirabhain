@@ -58,10 +58,12 @@ Java, C++
 
 ## Soft-Skills :
 1.	Problem-solving skill :
+   By actively developing my problem-solving skills, I can practice algorithmic thinking 
+   
 
-2.	Communication skill :
+3.	Time management :
+    I can be able to communicate effectively, both verbally and in writing.
 
-
-3.	Leadership Skills : 
+4.	Leadership Skills : 
 
 
