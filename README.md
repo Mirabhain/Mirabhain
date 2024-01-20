@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Siti Nurul Amirah</h1>
 <h3 align="center">A passionate Graphic and Multimedia Software from Malaysia</h3>
 
+Hi there. My name is Siti Nurul Amirah Binti Sheikh Sulaiman. I’m from Kuantan, Pahang. I'm a first year student at Universiti Teknologi Malaysia (UTM), where I'm studying Graphic and Multimedia Software. The last academic education was a physical science course at Pahang Matriculation College. Java and HTML are the basic programming languages that I learned. My primary motivation for enrolling in this course was my genuine passion for computer science and coding.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirabhain&label=Profile%20views&color=0e75b6&style=flat" alt="mirabhain" /> </p>
 
 - 🔭 I’m currently working on **C++ programming language**
@@ -8,6 +10,8 @@
 - 🌱 I’m currently learning **Graphic and Multimedia Software**
 
 - 📫 How to reach me **sitinurulamirah@graduate.utm.my**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirabhain&show_icons=true&locale=en" alt="mirabhain" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirabhain&" alt="mirabhain" /></p>
+| `shadow_green` ![shadow_green][shadow_green_repo] | `shadow_blue` ![shadow_blue][shadow_blue_repo] | `dark` ![dark][dark_repo] |
