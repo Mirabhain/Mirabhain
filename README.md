@@ -32,13 +32,13 @@ Pahang Matriculation College (2022 – 2023)
 Sekolah Sains Sultan Haji Ahmad Shah Pekan (2017 – 2021)
 SK Kempadang (2011 – 2016)
 
-## Achievements :trophy:
-Kolej Matrikulasi Pahang
+# Achievements :trophy:
+## Kolej Matrikulasi Pahang
 1.	Kuiz Kimia Kebangsaan Malaysia 2022
 2.	KMPH Dronatrix Challenge Project
 3.	60 seconds Video Challenge Karnival STEM KMPH
 
-Sekolah Sains Sultan Haji Ahmad Shah Pekan
+## Sekolah Sains Sultan Haji Ahmad Shah Pekan
 1. 1st Malaysia Earth Science Olympiad 2018
 2.	Malaysia Fully Residential School International Wind Orchestra Festival (Bronze Award) 🥉
 3.	Pop Orchestra of National Patriotisme Festival 2017 (Silver Award)🥈
