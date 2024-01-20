@@ -26,4 +26,4 @@ Hi there. My name is Siti Nurul Amirah Binti Sheikh Sulaiman. I’m from Kuantan
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirabhain&show_icons=true&locale=en" alt="mirabhain" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirabhain&" alt="mirabhain" /></p>
-| `shadow_green` ![shadow_green][shadow_green_repo] | `shadow_blue` ![shadow_blue][shadow_blue_repo] | `dark` ![dark][dark_repo] |
+
