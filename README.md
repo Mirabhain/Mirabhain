@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm amirah</h1>
-<h3 align="center">A passionate Graphic and Multimedia Software from Malaysia
+<h1 align="center">Hi 👋, I'm Siti Nurul Amirah</h1>
+<h3 align="center">A passionate Graphic and Multimedia Software from Malaysia</h3>
 
-Hi there. My name is Siti Nurul Amirah Binti Sheikh Sulaiman. I’m from Kuantan, Pahang. I'm a first-year student at Universiti Teknologi Malaysia (UTM), studying Graphic and Multimedia Software. The last academic education was a physical science course at Pahang Matriculation College. Java and HTML are the basic programming languages that I learned. My primary motivation for enrolling in this course was my genuine passion for computer science and coding.</h3>
+Hi there. My name is Siti Nurul Amirah Binti Sheikh Sulaiman. I’m from Kuantan, Pahang. I'm a first-year student at Universiti Teknologi Malaysia (UTM), studying Graphic and Multimedia Software. The last academic education was a physical science course at Pahang Matriculation College. Java and HTML are the basic programming languages that I learned. My primary motivation for enrolling in this course was my passion for computer science and coding.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirabhain&label=Profile%20views&color=0e75b6&style=flat" alt="mirabhain" /> </p>
 
