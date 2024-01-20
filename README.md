@@ -28,6 +28,5 @@ Hi there. My name is Siti Nurul Amirah Binti Sheikh Sulaiman. I’m from Kuantan
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirabhain&" alt="mirabhain" /></p>
 
-[![Mirabhain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mirabhain)](https://github.com/anuraghazra/github-readme-stats)
 
 
