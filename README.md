@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Siti Nurul Amirah</h1>
 <h3 align="center">A passionate Graphic and Multimedia Software from Malaysia</h3>
 
-Hi there. My name is Siti Nurul Amirah Binti Sheikh Sulaiman. I’m from Kuantan, Pahang. I'm a first-year student at Universiti Teknologi Malaysia (UTM), studying Graphic and Multimedia Software. The last academic education was a physical science course at Pahang Matriculation College. Java and HTML are the basic programming languages that I learned. My primary motivation for enrolling in this course was my passion for computer science and coding. 
-
+Hi there. My name is Siti Nurul Amirah Binti Sheikh Sulaiman. I’m from Kuantan, Pahang. I'm a first-year student at Universiti Teknologi Malaysia (UTM), pursuing a Bachelor of Computer Science in Graphic and Multimedia Software. My last academic education was a physical science course at Pahang Matriculation College. Java and HTML are the basic programming languages that I learned. My primary motivation for enrolling in this course was my passion for computer science and coding. In addition to Java and HTML, I am keen my interest in exploring various programming languages and design tools that can enhance my skills in Graphic and Multimedia Software course. One of the notable experiences in my academic journey has been my involvement in the Dronatrix Challenge. Taking on this project not only tested my technical skills but also provided a platform to apply my knowledge in a real-world context. Working on the Dronatrix Challenge required collaboration, problem-solving, and a deep understanding of drone technology.
+Additionally, it was also an exciting experience for me to take part in the 60 Seconds Video Challenge Carnival STEM at KMPH. Crafting a meaningful and engaging message within a concise time frame challenged my creativity and communication skills.  Both the Dronatrix Challenge and the 60 Seconds Video Challenge Carnival STEM have significantly contributed to my growth as a student in Graphic and Multimedia Software at Universiti Teknologi Malaysia (UTM). I am enthusiastic about the learning journey ahead at UTM and am ready to embrace the challenges and opportunities that come my way. Thank you for allowing me to share a glimpse of my academic and career aspirations.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirabhain&label=Profile%20views&color=0e75b6&style=flat" alt="mirabhain" /> </p>
 
@@ -12,7 +12,7 @@ Hi there. My name is Siti Nurul Amirah Binti Sheikh Sulaiman. I’m from Kuantan
 
 - 📫 How to reach me **sitinurulamirah@graduate.utm.my**
 
-- ⚡ Fun fact **I'm introvert**
+- ⚡ Fun fact **I'm enjoy to learn other languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,21 +32,22 @@ Pahang Matriculation College (2022 – 2023)
 Sekolah Sains Sultan Haji Ahmad Shah Pekan (2017 – 2021)
 SK Kempadang (2011 – 2016)
 
+## Achievements :trophy:
 Kolej Matrikulasi Pahang
 1.	Kuiz Kimia Kebangsaan Malaysia 2022
 2.	KMPH Dronatrix Challenge Project
-
-
+3.	60 seconds Video Challenge Karnival STEM KMPH
 
 Sekolah Sains Sultan Haji Ahmad Shah Pekan
-1.	Malaysia Fully Residential School International Wind Orchestra Festival (Bronze Award)
-2.	Pop Orchestra of National Patriotisme Festival 2017 (Silver Award)
-3.	Pop Orchestra of National Patriotisme Festival 2018 (Bronze Award)
-4.	Pop Orchestra of National Patriotisme Festival 2019 (Bronze Award)
-5.	Pop Orchestra of National Patriotisme Festival 2020 (Silver Award)
-6.	Anugerah Khas Sekolah (Pancaragam)
+1. 1st Malaysia Earth Science Olympiad 2018
+2.	Malaysia Fully Residential School International Wind Orchestra Festival (Bronze Award) 🥉
+3.	Pop Orchestra of National Patriotisme Festival 2017 (Silver Award)🥈
+4.	Pop Orchestra of National Patriotisme Festival 2018 (Bronze Award)🥉
+5.	Pop Orchestra of National Patriotisme Festival 2019 (Bronze Award)🥉
+6.	Pop Orchestra of National Patriotisme Festival 2020 (Silver Award)🥈
+7.	Anugerah Khas Sekolah (Pancaragam)
 
-# Technical Skills :
+# Technical Skills 💻 :
 ## Basic Web development: 
 HTML
 ## Programming language: 
@@ -56,7 +57,7 @@ Java, C++
 
 
 ## Soft-Skills :
-1.	Problem- solving skill :
+1.	Problem-solving skill :
 
 2.	Communication skill :
 
