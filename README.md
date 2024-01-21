@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siti Nurul Amirah</h1>
 <h3 align="center">A passionate Graphic and Multimedia Software from Malaysia</h3>
-![Portfolio](https://github.com/Mirabhain/INDUSTRY-TALK-2/assets/148435516/83e2f0bb-3df5-4a6e-9aae-e7cc31022977)
+
 ![Uploading Portfolio.png…]()
 
 Hi there. My name is Siti Nurul Amirah Binti Sheikh Sulaiman. I’m from Kuantan, Pahang. I'm a first-year student at Universiti Teknologi Malaysia (UTM), pursuing a Bachelor of Computer Science in Graphic and Multimedia Software. My last academic education was a physical science course at Pahang Matriculation College. Java and HTML are the basic programming languages that I learned. My primary motivation for enrolling in this course was my passion for computer science and coding. In addition to Java and HTML, I am keen my interest in exploring various programming languages and design tools that can enhance my skills in Graphic and Multimedia Software course. One of the notable experiences in my academic journey has been my involvement in the Dronatrix Challenge. Taking on this project not only tested my technical skills but also provided a platform to apply my knowledge in a real-world context. Working on the Dronatrix Challenge required collaboration, problem-solving, and a deep understanding of drone technology.
