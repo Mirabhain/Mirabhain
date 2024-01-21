@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Siti Nurul Amirah</h1>
 <h3 align="center">A passionate Graphic and Multimedia Software from Malaysia</h3>
 
-![Uploading Portfolio.png…]()
+![Portfolio](https://github.com/Mirabhain/Mirabhain/assets/148435516/975ac813-0f03-4653-a49e-f0b4e93d9cce)
+
 
 Hi there. My name is Siti Nurul Amirah Binti Sheikh Sulaiman. I’m from Kuantan, Pahang. I'm a first-year student at Universiti Teknologi Malaysia (UTM), pursuing a Bachelor of Computer Science in Graphic and Multimedia Software. My last academic education was a physical science course at Pahang Matriculation College. Java and HTML are the basic programming languages that I learned. My primary motivation for enrolling in this course was my passion for computer science and coding. In addition to Java and HTML, I am keen my interest in exploring various programming languages and design tools that can enhance my skills in Graphic and Multimedia Software course. One of the notable experiences in my academic journey has been my involvement in the Dronatrix Challenge. Taking on this project not only tested my technical skills but also provided a platform to apply my knowledge in a real-world context. Working on the Dronatrix Challenge required collaboration, problem-solving, and a deep understanding of drone technology.
 Additionally, it was also an exciting experience for me to take part in the 60 Seconds Video Challenge Carnival STEM at KMPH. Crafting a meaningful and engaging message within a concise time frame challenged my creativity and communication skills.  Both the Dronatrix Challenge and the 60 Seconds Video Challenge Carnival STEM have significantly contributed to my growth as a student in Graphic and Multimedia Software at Universiti Teknologi Malaysia (UTM). I am enthusiastic about the learning journey ahead at UTM and am ready to embrace the challenges and opportunities that come my way. Thank you for allowing me to share a glimpse of my academic and career aspirations.
@@ -62,12 +63,24 @@ Java, C++
 
 ## Soft-Skills :
 1.	Problem-solving skill :
-   By actively developing my problem-solving skills, I can practice algorithmic thinking 
-   
+   - By actively developing my problem-solving skills, I can practice algorithmic thinking by 
+     break down real-world problems into smaller, well-defined steps. I have a strong problem- 
+     solving that allows me to break down complex challenges into manageable steps, design 
+     efficient solutions and adapt to unexpected situations. This skill reaches technical 
+     knowledge and it demonstrates intellectual agility, critical thinking and the ability to 
+     adjust to the rapidly changing landscape of technology
 
 3.	Time management :
-    I can be able to communicate effectively, both verbally and in writing.
-
-4.	Leadership Skills : 
+   - As a student, effective time management ensures I dedicate enough time to study and 
+     complete assignments on time which can lead to better grades and deeper understanding.I 
+     can plan my time wisely to prioritize tasks, minimize distractions and get more done in 
+     less time.
+  	
+5.	Leadership Skills :
+   - Leadership skill the most crucial skill because it helps me form study groups, motivate my 
+     peers and navigate complex group projects that lead to a better understanding. As a 
+     student, developing leadership skills can build confidence, communication abilities and 
+     critical thinking skills that benefit in academics and also my personal life.
+  	
 
 
