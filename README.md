@@ -27,6 +27,8 @@ Additionally, it was also an exciting experience for me to take part in the 60 S
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirabhain&show_icons=true&locale=en&layout=compact" alt="mirabhain" /></p>
 
+![Mirabhain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mirabhain&theme=dark&show_icons=true)
+
 ## Education :mortar_board: 
 University Technology Malaysia (2023 – 2027)
 Pahang Matriculation College (2022 – 2023)
