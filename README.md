@@ -70,13 +70,13 @@ Java, C++
      knowledge and it demonstrates intellectual agility, critical thinking and the ability to 
      adjust to the rapidly changing landscape of technology
 
-3.	Time management :
+2.	Time management :
    - As a student, effective time management ensures I dedicate enough time to study and 
      complete assignments on time which can lead to better grades and deeper understanding.I 
      can plan my time wisely to prioritize tasks, minimize distractions and get more done in 
      less time.
   	
-5.	Leadership Skills :
+3.	Leadership Skills :
    - Leadership skill the most crucial skill because it helps me form study groups, motivate my 
      peers and navigate complex group projects that lead to a better understanding. As a 
      student, developing leadership skills can build confidence, communication abilities and 
